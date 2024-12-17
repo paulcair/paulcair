@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paulcair
+- 👋 Hi, I’m Paul Cairns (@paulcair)
 - 👀 I’m interested in engineering and programming
 - 🌱 I’m currently learning the MERN stack and python and 6DOF robot DH reference frames and forward and inverse kinematics.
 - 💞️ I’m looking to collaborate on ...
