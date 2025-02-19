@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Paul Cairns (@paulcair)
+- 👋 Hi, I’m Paul Cairns (@paulcair).
 - 👀 I’m interested in engineering, robotics, programming, and mechanical design.
 - 🌱 I’m currently learning the MERN stack, python, 6DOF robot DH reference frames and forward and inverse kinematics. Hoping to create an OpenCV driven picknplace 6DOF robot. Would love some help, im having trouble with the forward kinematics at the moment.
 - 💞️ I’m looking to collaborate on my 6DOF robot. I could really use help. If you're any good at 6DOF robots please reach out.
